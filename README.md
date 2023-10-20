@@ -15,4 +15,7 @@ all the mods in the folder that it's in. Move those out of your folder and into 
 
 # Video
 Here's a video of it doing its business (I had to cut it short; I don't want all the mods on my computer to take up space):
-https://github.com/Keramis/Minecraft-Modpack-Downloader/assets/81401952/8cbc5e86-8d19-4672-a306-2e7dde9e6b9d
+
+
+https://github.com/Keramis/Minecraft-Modpack-Downloader/assets/81401952/7a02f8a6-b538-4caf-82cc-150946aec06e
+
